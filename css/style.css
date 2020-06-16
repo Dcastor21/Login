@@ -2,7 +2,7 @@ body,html{
     margin:0;
     padding:0;
     height:100%;
-   background: #004B8D !important;
+   background: linear-gradient(to left,rgb(13, 70, 226,1) 0%, rgba(0,128,128,1) 100%) !important;;
 }
 
 .user_card{
